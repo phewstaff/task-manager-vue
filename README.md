@@ -1,5 +1,5 @@
 # task-manager-vue
-Тестовое задание
+Тестовое задание.
 Простой todo list на vue
 
 ## Recommended IDE Setup
