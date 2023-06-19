@@ -1,6 +1,6 @@
 # task-manager-vue
-
-This template should help get you started developing with Vue 3 in Vite.
+Тестовое задание
+Простой todo list на vue
 
 ## Recommended IDE Setup
 
